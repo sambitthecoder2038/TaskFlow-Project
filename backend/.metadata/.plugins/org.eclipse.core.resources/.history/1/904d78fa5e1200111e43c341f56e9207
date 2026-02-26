@@ -1,0 +1,7 @@
+package com.taskflow.dto;
+
+public class RegistrationRequestDto {
+	private String fullName;
+	private String email;
+	private String password;
+}

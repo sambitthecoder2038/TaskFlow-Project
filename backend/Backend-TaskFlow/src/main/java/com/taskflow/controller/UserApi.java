@@ -1,0 +1,39 @@
+package com.taskflow.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.taskflow.dto.RegistrationRequestDto;
+import com.taskflow.dto.RegistrationResponseDto;
+import com.taskflow.exception.TaskFlowException;
+import com.taskflow.services.UserService;
+
+@CrossOrigin
+@RestController
+@RequestMapping("/api/auth")
+public class UserApi {
+	@Autowired
+	UserService userService;
+
+	//     @GetMapping("/hello")
+	//     public ResponseEntity<String> hello(){
+	//         return ResponseEntity.ok("api run");
+	//     }
+	@PostMapping("/register")
+	public ResponseEntity<RegistrationResponseDto> register(@RequestBody RegistrationRequestDto request)
+			throws TaskFlowException {
+		System.out.println(request.getFullName());
+		return ResponseEntity.ok(userService.userRegister(request));
+	}
+	//     @GetMapping(value = "/login/{id}")
+	//     public ResponseEntity<LoginRequestDto> getCustomer(@PathVariable String
+	// userName) throws TaskFlowException {
+	//         TaskFlowException user = userServices.userLogin(LoginRequestDto);
+//	        return new ResponseEntity<>(user, HttpStatus.OK); 
+//	    }
+}

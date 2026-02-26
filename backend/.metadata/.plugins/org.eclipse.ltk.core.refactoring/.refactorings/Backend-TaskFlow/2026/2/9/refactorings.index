@@ -1,0 +1,4 @@
+1772028293135	Rename package 'com.taskflow.main'
+1772046019516	Encapsulate field 'fullName, ...'
+1772046027742	Encapsulate field 'email, ...'
+1772046032287	Encapsulate field 'password, ...'

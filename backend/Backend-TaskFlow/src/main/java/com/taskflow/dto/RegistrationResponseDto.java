@@ -1,0 +1,31 @@
+package com.taskflow.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+
+@NoArgsConstructor
+@AllArgsConstructor
+public class RegistrationResponseDto {
+	private String successMessage;
+	private long id;
+
+	public String getSuccessMessage() {
+		return successMessage;
+	}
+
+	public void setSuccessMessage(String successMessage) {
+		this.successMessage = successMessage;
+	}
+
+	public long getId() {
+		return id;
+	}
+
+	public void setId(long id) {
+		this.id = id;
+	}
+
+}

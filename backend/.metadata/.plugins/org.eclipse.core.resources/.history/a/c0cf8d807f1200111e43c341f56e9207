@@ -1,0 +1,5 @@
+package com.taskflow.security;
+
+public class SecurityConfig {
+
+}

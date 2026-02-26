@@ -1,0 +1,1222 @@
+!SESSION 2026-02-25 20:10:09.304 -----------------------------------------------
+eclipse.buildId=4.37.0.202511091838
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+This is a continuation of log file C:\Users\sambi\Downloads\taskflow-project\backend\.metadata\.bak_1.log
+Created Time: 2026-02-26 00:58:00.430
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:00.431
+!MESSAGE 00:58:00.395 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:00.432
+!MESSAGE 00:58:00.429 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:07.210
+!MESSAGE 00:58:07.209 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:08.253
+!MESSAGE 00:58:07.415 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:08.253
+!MESSAGE 00:58:07.424 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:08.253
+!MESSAGE 00:58:08.252 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:08.453
+!MESSAGE 00:58:08.445 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:08.454
+!MESSAGE 00:58:08.452 [ForkJoinPool.commonPool-worker-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:10.722
+!MESSAGE 00:58:08.758 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:10.723
+!MESSAGE 00:58:10.722 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:10.830
+!MESSAGE 00:58:10.823 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:10.830
+!MESSAGE 00:58:10.829 [ForkJoinPool.commonPool-worker-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:13.024
+!MESSAGE 00:58:10.831 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:13.024
+!MESSAGE 00:58:10.832 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:13.024
+!MESSAGE 00:58:12.974 [pool-2-thread-66] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:13.026
+!MESSAGE 00:58:13.026 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 00:58:13.263
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 00:58:13.264
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 00:58:13.264
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 00:58:13.264
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:13.291
+!MESSAGE 00:58:13.151 [pool-5-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Finished scanning affected files [C:\Users\sambi\Downloads\taskflow-project\backend\Backend-TaskFlow\src\main\java\com\taskflow\controller\UserApi.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:13.711
+!MESSAGE 00:58:13.399 [ForkJoinPool.commonPool-worker-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Removing and cleaning up name env for project file:/C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:13.711
+!MESSAGE 00:58:13.709 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:13.713
+!MESSAGE 00:58:13.712 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:19.094
+!MESSAGE 00:58:19.093 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:23.217
+!MESSAGE 00:58:23.216 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:23.300
+!MESSAGE 00:58:23.288 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:23.301
+!MESSAGE 00:58:23.300 [pool-2-thread-68] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:27.076
+!MESSAGE 00:58:23.726 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:27.076
+!MESSAGE 00:58:27.075 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:27.171
+!MESSAGE 00:58:27.160 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:27.171
+!MESSAGE 00:58:27.171 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:27.547
+!MESSAGE 00:58:27.546 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 97
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:27.673
+!MESSAGE 00:58:27.661 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:27.673
+!MESSAGE 00:58:27.673 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:29.277
+!MESSAGE 00:58:28.050 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:29.277
+!MESSAGE 00:58:28.050 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:29.325
+!MESSAGE 00:58:29.325 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:29.327
+!MESSAGE 00:58:29.327 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:29.445
+!MESSAGE 00:58:29.445 [pool-5-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Start scanning affected files for types [com.taskflow.controller.UserApi]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 00:58:29.562
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 00:58:29.563
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 00:58:29.563
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 00:58:29.564
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:29.707
+!MESSAGE 00:58:29.594 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/target/classes/application.properties, file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/target/classes/com/taskflow/controller/UserApi.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:29.903
+!MESSAGE 00:58:29.903 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:29.958
+!MESSAGE 00:58:29.956 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:29.958
+!MESSAGE 00:58:29.956 [ForkJoinPool.commonPool-worker-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:29.961
+!MESSAGE 00:58:29.960 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:29.961
+!MESSAGE 00:58:29.961 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:36.618
+!MESSAGE 00:58:36.618 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:36.667
+!MESSAGE 00:58:36.658 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:36.668
+!MESSAGE 00:58:36.668 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:37.882
+!MESSAGE 00:58:37.128 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:37.882
+!MESSAGE 00:58:37.128 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:37.929
+!MESSAGE 00:58:37.929 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:37.932
+!MESSAGE 00:58:37.931 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 00:58:38.393
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 00:58:38.394
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 00:58:38.394
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 00:58:38.395
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:38.421
+!MESSAGE 00:58:38.045 [pool-5-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Finished scanning affected files [C:\Users\sambi\Downloads\taskflow-project\backend\Backend-TaskFlow\src\main\java\com\taskflow\controller\UserApi.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:38.799
+!MESSAGE 00:58:38.529 [ForkJoinPool.commonPool-worker-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Removing and cleaning up name env for project file:/C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:38.799
+!MESSAGE 00:58:38.797 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:38.801
+!MESSAGE 00:58:38.801 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:51.741
+!MESSAGE 00:58:39.934 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:51.741
+!MESSAGE 00:58:51.740 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:51.842
+!MESSAGE 00:58:51.835 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:51.843
+!MESSAGE 00:58:51.842 [ForkJoinPool.commonPool-worker-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:51.844
+!MESSAGE 00:58:51.844 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:51.845
+!MESSAGE 00:58:51.844 [pool-2-thread-68] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:56.128
+!MESSAGE 00:58:52.244 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:56.129
+!MESSAGE 00:58:52.244 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:56.129
+!MESSAGE 00:58:56.128 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:56.329
+!MESSAGE 00:58:56.319 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:56.329
+!MESSAGE 00:58:56.328 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:58:56.329
+!MESSAGE 00:58:56.328 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:01.124
+!MESSAGE 00:58:59.077 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:01.124
+!MESSAGE 00:58:59.077 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:01.125
+!MESSAGE 00:58:59.077 [pool-2-thread-66] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:01.125
+!MESSAGE 00:59:01.123 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:01.251
+!MESSAGE 00:59:01.243 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:01.251
+!MESSAGE 00:59:01.249 [ForkJoinPool.commonPool-worker-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:01.252
+!MESSAGE 00:59:01.251 [pool-2-thread-68] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:01.700
+!MESSAGE 00:59:01.699 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:03.421
+!MESSAGE 00:59:01.896 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:03.422
+!MESSAGE 00:59:01.905 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:03.423
+!MESSAGE 00:59:02.215 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:03.530
+!MESSAGE 00:59:03.521 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:03.531
+!MESSAGE 00:59:03.528 [ForkJoinPool.commonPool-worker-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:03.531
+!MESSAGE 00:59:03.530 [pool-2-thread-68] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:15.436
+!MESSAGE 00:59:03.931 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:15.437
+!MESSAGE 00:59:03.932 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:15.485
+!MESSAGE 00:59:15.477 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:15.488
+!MESSAGE 00:59:15.487 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:17.164
+!MESSAGE 00:59:15.947 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:17.165
+!MESSAGE 00:59:15.947 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:17.165
+!MESSAGE 00:59:17.164 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:17.293
+!MESSAGE 00:59:17.284 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:17.293
+!MESSAGE 00:59:17.291 [ForkJoinPool.commonPool-worker-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:17.496
+!MESSAGE 00:59:17.496 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 106
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:17.783
+!MESSAGE 00:59:17.777 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:17.784
+!MESSAGE 00:59:17.783 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:17.784
+!MESSAGE 00:59:17.783 [ForkJoinPool.commonPool-worker-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:22.090
+!MESSAGE 00:59:17.785 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:22.090
+!MESSAGE 00:59:18.007 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:22.090
+!MESSAGE 00:59:18.007 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:22.090
+!MESSAGE 00:59:22.082 [ForkJoinPool.commonPool-worker-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:22.091
+!MESSAGE 00:59:22.089 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:22.091
+!MESSAGE 00:59:22.089 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:22.312
+!MESSAGE 00:59:22.311 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:22.579
+!MESSAGE 00:59:22.571 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:22.579
+!MESSAGE 00:59:22.578 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:22.579
+!MESSAGE 00:59:22.579 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:35.033
+!MESSAGE 00:59:35.033 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:37.318
+!MESSAGE 00:59:35.116 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:37.318
+!MESSAGE 00:59:35.125 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:37.319
+!MESSAGE 00:59:35.535 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:37.319
+!MESSAGE 00:59:35.535 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:38.771
+!MESSAGE 00:59:38.685 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:38.772
+!MESSAGE 00:59:38.771 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:38.773
+!MESSAGE 00:59:38.773 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:53.908
+!MESSAGE 00:59:39.197 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:53.909
+!MESSAGE 00:59:39.197 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:53.909
+!MESSAGE 00:59:46.176 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:53.909
+!MESSAGE 00:59:46.176 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:53.910
+!MESSAGE 00:59:46.176 [pool-2-thread-66] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:53.910
+!MESSAGE 00:59:53.908 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:53.985
+!MESSAGE 00:59:53.975 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:53.987
+!MESSAGE 00:59:53.987 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:53.989
+!MESSAGE 00:59:53.988 [pool-2-thread-68] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:54.121
+!MESSAGE 00:59:54.120 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:54.587
+!MESSAGE 00:59:54.475 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:54.588
+!MESSAGE 00:59:54.484 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:54.588
+!MESSAGE 00:59:54.587 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:54.979
+!MESSAGE 00:59:54.972 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:54.979
+!MESSAGE 00:59:54.979 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:55.089
+!MESSAGE 00:59:55.088 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:55.089
+!MESSAGE 00:59:55.088 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:55.250
+!MESSAGE 00:59:55.249 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:55.494
+!MESSAGE 00:59:55.486 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:55.495
+!MESSAGE 00:59:55.493 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:55.495
+!MESSAGE 00:59:55.494 [pool-2-thread-68] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:57.684
+!MESSAGE 00:59:57.683 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:57.825
+!MESSAGE 00:59:57.817 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:57.825
+!MESSAGE 00:59:57.824 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 00:59:57.825
+!MESSAGE 00:59:57.824 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:00.168
+!MESSAGE 00:59:59.213 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:00.168
+!MESSAGE 00:59:59.213 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:00.168
+!MESSAGE 00:59:59.213 [pool-2-thread-66] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:00.360
+!MESSAGE 01:00:00.353 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:00.362
+!MESSAGE 01:00:00.361 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:00.681
+!MESSAGE 01:00:00.678 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:02.726
+!MESSAGE 01:00:02.725 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:02.848
+!MESSAGE 01:00:02.840 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:02.849
+!MESSAGE 01:00:02.848 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:05.456
+!MESSAGE 01:00:03.234 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:05.456
+!MESSAGE 01:00:05.455 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 118
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:05.560
+!MESSAGE 01:00:05.550 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:05.560
+!MESSAGE 01:00:05.559 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:05.560
+!MESSAGE 01:00:05.559 [pool-2-thread-68] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:05.798
+!MESSAGE 01:00:05.798 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:06.067
+!MESSAGE 01:00:06.061 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:06.068
+!MESSAGE 01:00:06.067 [ForkJoinPool.commonPool-worker-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:06.069
+!MESSAGE 01:00:06.069 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:08.165
+!MESSAGE 01:00:06.313 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:08.166
+!MESSAGE 01:00:08.165 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 120
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:08.275
+!MESSAGE 01:00:08.275 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:08.278
+!MESSAGE 01:00:08.277 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:08.495
+!MESSAGE 01:00:08.495 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:08.772
+!MESSAGE 01:00:08.765 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:08.773
+!MESSAGE 01:00:08.772 [pool-2-thread-68] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:09.007
+!MESSAGE 01:00:09.006 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:09.007
+!MESSAGE 01:00:09.007 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:09.021
+!MESSAGE 01:00:09.021 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:09.292
+!MESSAGE 01:00:09.284 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:09.292
+!MESSAGE 01:00:09.290 [ForkJoinPool.commonPool-worker-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:13.503
+!MESSAGE 01:00:09.530 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:13.504
+!MESSAGE 01:00:13.503 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 123
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:13.595
+!MESSAGE 01:00:13.585 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:13.596
+!MESSAGE 01:00:13.593 [ForkJoinPool.commonPool-worker-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:14.008
+!MESSAGE 01:00:14.007 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:14.930
+!MESSAGE 01:00:14.008 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:15.133
+!MESSAGE 01:00:15.120 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:15.133
+!MESSAGE 01:00:15.133 [pool-2-thread-68] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:15.435
+!MESSAGE 01:00:15.134 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:15.435
+!MESSAGE 01:00:15.434 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:15.435
+!MESSAGE 01:00:15.434 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:17.777
+!MESSAGE 01:00:17.726 [pool-2-thread-68] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:17.779
+!MESSAGE 01:00:17.778 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:17.779
+!MESSAGE 01:00:17.779 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 130
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:17.804
+!MESSAGE 01:00:17.803 [pool-2-thread-68] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:17.807
+!MESSAGE 01:00:17.806 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:17.903
+!MESSAGE 01:00:17.890 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:17.905
+!MESSAGE 01:00:17.903 [ForkJoinPool.commonPool-worker-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:17.906
+!MESSAGE 01:00:17.906 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:17.928
+!MESSAGE 01:00:17.928 [pool-5-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Start scanning affected files for types [com.taskflow.controller.UserApi]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 01:00:18.048
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 01:00:18.048
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 01:00:18.049
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 01:00:18.049
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:18.085
+!MESSAGE 01:00:18.085 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/target/classes/application.properties, file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/target/classes/com/taskflow/controller/UserApi.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:18.104
+!MESSAGE 01:00:18.104 [pool-5-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Start scanning affected files for types [com.taskflow.controller.UserApi]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:18.215
+!MESSAGE 01:00:18.215 [ForkJoinPool.commonPool-worker-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:18.275
+!MESSAGE 01:00:18.275 [pool-4-thread-32] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:18.279
+!MESSAGE 01:00:18.279 [pool-2-thread-68] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:18.280
+!MESSAGE 01:00:18.280 [pool-2-thread-66] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:18.289
+!MESSAGE 01:00:18.288 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:18.291
+!MESSAGE 01:00:18.290 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:00:32.065
+!MESSAGE 01:00:32.065 [pool-2-thread-68] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:03.920
+!MESSAGE 01:03:03.920 [pool-6-thread-2] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorService - Refreshing data from Spring process: service:jmx:rmi:///jndi/rmi://127.0.0.1:54807/jmxrmi - retry no: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:04.213
+!MESSAGE 01:03:04.163 [pool-4-thread-33] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/LoginRequestDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:04.213
+!MESSAGE 01:03:04.175 [pool-7-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:04.214
+!MESSAGE 01:03:04.211 [pool-4-thread-33] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/services/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:04.214
+!MESSAGE 01:03:04.211 [pool-7-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/services/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:04.218
+!MESSAGE 01:03:04.218 [pool-4-thread-33] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/RegistrationResponseDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:04.219
+!MESSAGE 01:03:04.218 [pool-7-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/LoginResponseDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:04.222
+!MESSAGE 01:03:04.221 [pool-4-thread-33] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/LoginResponseDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:04.267
+!MESSAGE 01:03:04.267 [pool-4-thread-33] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/security/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:04.312
+!MESSAGE 01:03:04.306 [pool-4-thread-33] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/models/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:04.313
+!MESSAGE 01:03:04.313 [pool-7-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:04.327
+!MESSAGE 01:03:04.326 [pool-4-thread-33] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:04.332
+!MESSAGE 01:03:04.332 [pool-4-thread-33] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/RegistrationRequestDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:04.334
+!MESSAGE 01:03:04.333 [pool-7-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/exception/TaskFlowException.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:04.342
+!MESSAGE 01:03:04.341 [pool-4-thread-33] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/exception/TaskFlowException.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:36.464
+!MESSAGE 01:03:36.464 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:36.724
+!MESSAGE 01:03:36.724 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:37.508
+!MESSAGE 01:03:37.507 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:37.519
+!MESSAGE 01:03:37.519 [pool-2-thread-70] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:37.789
+!MESSAGE 01:03:37.729 [pool-2-thread-70] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting server.address
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:37.990
+!MESSAGE 01:03:37.797 [pool-2-thread-71] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:37.991
+!MESSAGE 01:03:37.797 [pool-2-thread-71] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:37.991
+!MESSAGE 01:03:37.990 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.security.oauth2.resourceserver.jwt.jwk-set-uri
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:42.455
+!MESSAGE 01:03:42.397 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:42.456
+!MESSAGE 01:03:42.455 [pool-2-thread-71] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 1044 completions in 21ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:42.568
+!MESSAGE 01:03:42.568 [pool-2-thread-71] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting server.address
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:44.586
+!MESSAGE 01:03:44.586 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:44.612
+!MESSAGE 01:03:44.611 [pool-2-thread-71] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:44.710
+!MESSAGE 01:03:44.709 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: server.address
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:44.885
+!MESSAGE 01:03:44.884 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:44.892
+!MESSAGE 01:03:44.892 [pool-2-thread-71] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:44.989
+!MESSAGE 01:03:44.989 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: server.address
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:45.232
+!MESSAGE 01:03:45.231 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:45.242
+!MESSAGE 01:03:45.242 [pool-2-thread-71] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:45.346
+!MESSAGE 01:03:45.345 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: spring.jmx.server
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:46.640
+!MESSAGE 01:03:46.640 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:46.662
+!MESSAGE 01:03:46.661 [pool-2-thread-71] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:46.755
+!MESSAGE 01:03:46.754 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request received: server.address
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:47.753
+!MESSAGE 01:03:47.753 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:48.845
+!MESSAGE 01:03:47.884 [pool-2-thread-71] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting server.port
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:48.855
+!MESSAGE 01:03:48.855 [pool-2-thread-71] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Completion item resolve request starting server.port
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:50.928
+!MESSAGE 01:03:50.928 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:50.939
+!MESSAGE 01:03:50.939 [pool-2-thread-71] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:50.939
+!MESSAGE 01:03:50.939 [pool-2-thread-71] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:51.346
+!MESSAGE 01:03:51.346 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 104
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:51.352
+!MESSAGE 01:03:51.351 [pool-2-thread-71] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:51.352
+!MESSAGE 01:03:51.351 [pool-2-thread-71] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Starting completion handling for: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:51.746
+!MESSAGE 01:03:51.745 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 105
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:51.752
+!MESSAGE 01:03:51.752 [pool-2-thread-71] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - completion handling - retrieve lastest snapshot for: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:52.130
+!MESSAGE 01:03:52.130 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 106
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:52.139
+!MESSAGE 01:03:52.136 [pool-2-thread-71] INFO  o.s.i.v.c.l.c.CompositeCompletionEngine - languageId = LanguageId [spring-boot-properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:03:56.449
+!MESSAGE 01:03:56.448 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 01:03:56.575
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 01:03:56.576
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 01:03:56.576
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 01:03:56.576
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.565
+!MESSAGE 01:03:56.604 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/target/classes/application.properties]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.567
+!MESSAGE 01:04:02.566 [pool-13-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - updating settings for remote processses to track - done
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.572
+!MESSAGE 01:04:02.568 [pool-6-thread-6] ERROR o.s.i.v.b.j.l.v.SpringProcessConnectorOverJMX - error closing the JMX connection for: service:jmx:rmi:///jndi/rmi://127.0.0.1:54807/jmxrmi
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.572
+!MESSAGE java.rmi.ConnectException: Connection refused to host: localhost; nested exception is: 
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.572
+!MESSAGE 	java.net.ConnectException: Connection refused: connect
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.573
+!MESSAGE 	at java.rmi/sun.rmi.transport.tcp.TCPEndpoint.newSocket(TCPEndpoint.java:625)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.573
+!MESSAGE 	at java.rmi/sun.rmi.transport.tcp.TCPChannel.createConnection(TCPChannel.java:217)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.573
+!MESSAGE 	at java.rmi/sun.rmi.transport.tcp.TCPChannel.newConnection(TCPChannel.java:204)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.573
+!MESSAGE 	at java.rmi/sun.rmi.server.UnicastRef.invoke(UnicastRef.java:134)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.574
+!MESSAGE 	at jdk.remoteref/jdk.jmx.remote.internal.rmi.PRef.invoke(Unknown Source)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.574
+!MESSAGE 	at java.management.rmi/javax.management.remote.rmi.RMIConnectionImpl_Stub.close(RMIConnectionImpl_Stub.java:151)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.574
+!MESSAGE 	at java.management.rmi/javax.management.remote.rmi.RMIConnector.close(RMIConnector.java:507)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.575
+!MESSAGE 	at java.management.rmi/javax.management.remote.rmi.RMIConnector.close(RMIConnector.java:447)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.575
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessConnectorOverJMX.disconnect(SpringProcessConnectorOverJMX.java:205)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.575
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessConnectorService.lambda$scheduleDisconnect$5(SpringProcessConnectorService.java:200)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.575
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.576
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.576
+!MESSAGE 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.576
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.577
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.577
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.577
+!MESSAGE Caused by: java.net.ConnectException: Connection refused: connect
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.578
+!MESSAGE 	at java.base/sun.nio.ch.Net.connect0(Native Method)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.578
+!MESSAGE 	at java.base/sun.nio.ch.Net.connect(Net.java:589)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.578
+!MESSAGE 	at java.base/sun.nio.ch.Net.connect(Net.java:578)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.578
+!MESSAGE 	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:583)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.579
+!MESSAGE 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.579
+!MESSAGE 	at java.base/java.net.Socket.connect(Socket.java:751)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.579
+!MESSAGE 	at java.base/java.net.Socket.connect(Socket.java:686)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.580
+!MESSAGE 	at java.base/java.net.Socket.<init>(Socket.java:555)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.580
+!MESSAGE 	at java.base/java.net.Socket.<init>(Socket.java:324)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.580
+!MESSAGE 	at java.rmi/sun.rmi.transport.tcp.TCPDirectSocketFactory.createSocket(TCPDirectSocketFactory.java:40)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.580
+!MESSAGE 	at java.rmi/sun.rmi.transport.tcp.TCPEndpoint.newSocket(TCPEndpoint.java:619)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:02.581
+!MESSAGE 	... 15 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.515
+!MESSAGE geProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.515
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.516
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.516
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.516
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.516
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.517
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.517
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.517
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.518
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.518
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.518
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.518
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.519
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.523
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.524
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.524
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.524
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.524
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.525
+!MESSAGE 01:04:09.513 [pool-13-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - Creating RemoteStringBootApp: RemoteBootAppData [jmxurl=service:jmx:rmi:///jndi/rmi://127.0.0.1:54893/jmxrmi, host=127.0.0.1, urlScheme=http, port=null, manualConnect=false, keepChecking=true, processId=16420, processName=com.taskflow.BackendTaskFlowApplication. projectName=Backend-TaskFlow]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.525
+!MESSAGE 01:04:09.513 [pool-13-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorService - connect to process: service:jmx:rmi:///jndi/rmi://127.0.0.1:54893/jmxrmi
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.526
+!MESSAGE 01:04:09.513 [pool-13-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorService - Connecting to process: service:jmx:rmi:///jndi/rmi://127.0.0.1:54893/jmxrmi - retry no: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.526
+!MESSAGE 01:04:09.514 [pool-13-thread-1] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorRemote - updating settings for remote processses to track - done
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.526
+!MESSAGE 01:04:09.514 [pool-13-thread-1] ERROR o.e.lsp4j.jsonrpc.RemoteEndpoint - Internal error: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.526
+!MESSAGE java.util.concurrent.CompletionException: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.527
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.527
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.527
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.528
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.thenAccept(CompletableFuture.java:2214)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.528
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.528
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.528
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.529
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.529
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.529
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.529
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.530
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.530
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.530
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.530
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.531
+!MESSAGE Caused by: java.lang.IllegalStateException: Live Data is not yet available!
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.531
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.handleLiveProcessRequest(SpringProcessCommandHandler.java:330)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.531
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.livehover.v2.SpringProcessCommandHandler.lambda$new$4(SpringProcessCommandHandler.java:81)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.532
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleLanguageServer.executeCommand(SimpleLanguageServer.java:313)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.532
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleWorkspaceService.executeCommand(SimpleWorkspaceService.java:157)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.532
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.532
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.533
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.533
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.533
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.533
+!MESSAGE 	... 10 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.551
+!MESSAGE 01:04:09.550 [pool-6-thread-4] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorService - Refreshing data from Spring process: service:jmx:rmi:///jndi/rmi://127.0.0.1:54893/jmxrmi - retry no: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.758
+!MESSAGE 01:04:09.754 [pool-4-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/LoginRequestDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.758
+!MESSAGE 01:04:09.757 [pool-7-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/LoginRequestDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.766
+!MESSAGE 01:04:09.765 [pool-4-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.770
+!MESSAGE 01:04:09.770 [pool-7-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/services/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.779
+!MESSAGE 01:04:09.779 [pool-4-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/services/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.780
+!MESSAGE 01:04:09.780 [pool-7-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/RegistrationResponseDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.784
+!MESSAGE 01:04:09.783 [pool-4-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/RegistrationResponseDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.787
+!MESSAGE 01:04:09.786 [pool-4-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/LoginResponseDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.804
+!MESSAGE 01:04:09.804 [pool-4-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/security/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.816
+!MESSAGE 01:04:09.816 [pool-7-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/models/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.822
+!MESSAGE 01:04:09.821 [pool-4-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/models/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.822
+!MESSAGE 01:04:09.822 [pool-7-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.830
+!MESSAGE 01:04:09.830 [pool-4-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.835
+!MESSAGE 01:04:09.835 [pool-4-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/RegistrationRequestDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.836
+!MESSAGE 01:04:09.836 [pool-7-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/exception/TaskFlowException.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:09.841
+!MESSAGE 01:04:09.841 [pool-4-thread-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/exception/TaskFlowException.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:19.618
+!MESSAGE 01:04:09.841 [pool-7-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/exception/TaskFlowException.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:19.621
+!MESSAGE 01:04:19.619 [pool-2-thread-71] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/RegistrationRequestDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:21.435
+!MESSAGE 01:04:21.435 [ForkJoinPool.commonPool-worker-34] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:04:21.437
+!MESSAGE 01:04:21.437 [pool-2-thread-71] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:17:20.658
+!MESSAGE 01:04:35.738 [pool-2-thread-71] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:17:20.659
+!MESSAGE 01:17:20.657 [ForkJoinPool.commonPool-worker-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:17:20.675
+!MESSAGE 01:17:20.675 [pool-4-thread-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:17:20.678
+!MESSAGE 01:17:20.677 [pool-2-thread-72] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:18:10.595
+!MESSAGE 01:18:10.594 [ForkJoinPool.commonPool-worker-35] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:18:10.597
+!MESSAGE 01:18:10.596 [pool-2-thread-72] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 01:18:15.449
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 01:18:15.450
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 01:18:15.450
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-02-26 01:18:15.451
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:18:15.989
+!MESSAGE 01:18:15.479 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file created event: [file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/target/classes/DbSql.sql]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:18:15.989
+!MESSAGE 01:18:15.987 [pool-2-thread-72] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:18:15.990
+!MESSAGE 01:18:15.988 [pool-2-thread-73] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:30:47.798
+!MESSAGE 01:30:47.782 [pool-4-thread-36] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/RegistrationRequestDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:30:47.799
+!MESSAGE 01:30:47.796 [ForkJoinPool.commonPool-worker-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/RegistrationRequestDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:30:50.964
+!MESSAGE 01:30:50.964 [pool-2-thread-74] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/RegistrationRequestDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:30:50.964
+!MESSAGE 01:30:50.964 [pool-2-thread-74] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/RegistrationRequestDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:30:50.964
+!MESSAGE 01:30:50.964 [pool-2-thread-74] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/RegistrationRequestDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 01:30:50.965
+!MESSAGE 01:30:50.964 [pool-2-thread-74] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 02:00:03.158
+!MESSAGE 02:00:03.108 [pool-4-thread-37] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/RegistrationRequestDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 02:00:03.159
+!MESSAGE 02:00:03.158 [pool-2-thread-76] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/RegistrationRequestDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 02:07:42.431
+!MESSAGE 02:07:42.430 [JMX client heartbeat 4] INFO  o.s.i.v.b.j.l.v.SpringProcessConnectorService - Disconnect from process: service:jmx:rmi:///jndi/rmi://127.0.0.1:54893/jmxrmi - retry no: 0
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 02:08:09.035
+!MESSAGE 02:08:09.035 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Closed: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 02:08:09.036
+!MESSAGE 02:08:09.035 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 02:08:09.055
+!MESSAGE 02:08:09.054 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Closed: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/services/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 02:08:09.055
+!MESSAGE 02:08:09.054 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/services/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 02:08:09.094
+!MESSAGE 02:08:09.094 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Closed: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/RegistrationResponseDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 02:08:09.095
+!MESSAGE 02:08:09.094 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/RegistrationResponseDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 02:08:09.131
+!MESSAGE 02:08:09.131 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/exception/TaskFlowException.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 02:08:09.171
+!MESSAGE 02:08:09.161 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/repository/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 02:08:09.183
+!MESSAGE 02:08:09.182 [pool-13-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/dto/LoginRequestDto.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-02-26 02:08:09.240
+!MESSAGE 02:08:09.240 [pool-13-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Closed: file:///C:/Users/sambi/Downloads/taskflow-project/backend/Backend-TaskFlow/src/main/java/com/taskflow/controller/UserApi.java

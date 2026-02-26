@@ -1,0 +1,45 @@
+package com.taskflow.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.taskflow.dto.RegistrationRequestDto;
+import com.taskflow.dto.RegistrationResponseDto;
+import com.taskflow.exception.TaskFlowException;
+import com.taskflow.models.User;
+import com.taskflow.repository.UserRepository;
+import jakarta.transaction.Transactional;
+
+@Service
+@Transactional
+public class UserService {
+
+	@Autowired
+	private UserRepository userRepository;
+
+	public   RegistrationResponseDto userRegister(RegistrationRequestDto request) throws TaskFlowException{
+		RegistrationResponseDto response = new RegistrationResponseDto();
+		if(userRepository.existsByEmail(request.getEmail())) {
+			throw new TaskFlowException("USER.Already_exist");
+		}
+		User user=new User();
+		user.setFullName(request.getFullName());
+		user.setEmail(request.getEmail());
+		user.setPassword(request.getPassword());
+		user=userRepository.save(user);
+		if(user.getId()!=null) {
+			response.setId(user.getId());
+			response.setSuccessMessage("Registration Successfull");
+			return response;
+		}
+		throw new TaskFlowException("User.RegisterUnSuccessfull");
+    }
+
+//	public   LoginResponseDto userLogin(LoginRequestDto request) throws TaskFlowException{
+//		if(!userRepository.existsByEmail(request.getEmail())) {
+//			throw new TaskFlowException("USER.Not_Found");
+//		}
+
+		return null;
+    }
+}

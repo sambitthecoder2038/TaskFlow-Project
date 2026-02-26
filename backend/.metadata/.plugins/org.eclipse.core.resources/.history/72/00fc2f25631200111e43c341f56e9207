@@ -1,0 +1,30 @@
+package com.taskflow.dto;
+
+import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
+
+@Data
+@Getter
+@Setter
+public class RegistrationResponseDto {
+	private String successMessage;
+	private long id;
+
+//	public String getSuccessMessage() {
+//	 return successMessage;
+//	    }
+//
+//	public void setSuccessMessage(String successMessage) {
+//	 this.successMessage = successMessage;
+//	    }
+//
+//	public long getId() {
+//	 return id;
+//	    }
+//
+//	public void setId(long id) {
+//	 this.id = id;
+//	    }
+
+}
