@@ -1,28 +1,30 @@
 package com.taskflow.entity;
 
-import jakarta.persistence.Column;
+import java.time.LocalDate;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import jakarta.persistence.ManyToOne;
 import lombok.Getter;
 import lombok.Setter;
 
 @Entity
-@Table(name = "users")
 @Getter
 @Setter
-public class User {
+public class Task {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
 
-	private String fullName;
+	private String title;
+	private String description;
+	private LocalDate dueDate;
+	private String status;
 
-	@Column(unique = true)
-	private String email;
+	@ManyToOne
+	private User user;
 
-	private String passwordHash;
 }

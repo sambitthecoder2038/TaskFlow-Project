@@ -3,14 +3,12 @@ package com.taskflow.repository;
 import java.util.Optional;
 
 import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
 
-import com.taskflow.models.User;
+import com.taskflow.entity.User;
 
+@Repository
 public interface UserRepository extends JpaRepository<User, Long> {
-
-	boolean existsByEmailAndPasswordHash(String email, String password);
-
-	// unique lookups
 	Optional<User> findByEmail(String email);
 
 	boolean existsByEmail(String email);
